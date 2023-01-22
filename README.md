@@ -167,11 +167,11 @@ for (item of buttons) {
 
 ## OUTPUT:
 
-![Output](./validator.jpg)
+![output](https://user-images.githubusercontent.com/118791778/213929678-0db37a87-6249-4584-8b6c-edf816ca8961.png)
 
 ## Validation:
 
-![Output](./output.jpg)
+![validator](https://user-images.githubusercontent.com/118791778/213929687-b0306f02-b7a2-4a80-bfe7-f7638a6c1a9e.png)
 
 ## Result:
 
